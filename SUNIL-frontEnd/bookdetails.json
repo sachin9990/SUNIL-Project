@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "622f4e1e4d4f7b7460c8dabf"
+  },
+  "Bookname": "Test1",
+  "quantity": 500,
+  "Category": {
+    "$oid": "622f4cec4d4f7b7460c8dab1"
+  },
+  "Publisher": {
+    "$oid": "622f4e0e4d4f7b7460c8dabb"
+  },
+  "BDID": 1,
+  "IsActive": true
+},{
+  "_id": {
+    "$oid": "622f4f534d4f7b7460c8dad0"
+  },
+  "Bookname": "Test2",
+  "quantity": 1000,
+  "Category": {
+    "$oid": "622f4d994d4f7b7460c8dab2"
+  },
+  "Publisher": {
+    "$oid": "622f4e0e4d4f7b7460c8dabb"
+  },
+  "BDID": 2,
+  "IsActive": true
+},{
+  "_id": {
+    "$oid": "6230454c4a81895cd1987e98"
+  },
+  "Bookname": "Test3",
+  "quantity": 1500,
+  "Category": {
+    "$oid": "622f4dac4d4f7b7460c8dab3"
+  },
+  "Publisher": {
+    "$oid": "622f4e0e4d4f7b7460c8dabb"
+  },
+  "BDID": 3,
+  "IsActive": true
+},{
+  "_id": {
+    "$oid": "62332304d10cb7a54e1a5254"
+  },
+  "IsActive": true,
+  "BDID": 4,
+  "Bookname": "Node",
+  "Category": {
+    "$oid": "622f4dac4d4f7b7460c8dab3"
+  },
+  "Publisher": {
+    "$oid": "622f4de14d4f7b7460c8daba"
+  },
+  "quantity": 555,
+  "__v": 0
+}]

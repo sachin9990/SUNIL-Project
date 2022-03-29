@@ -1,0 +1,12 @@
+.home-div-conatiner{
+   width: 700px;
+   height: 100px;
+   background-color: rgb(131, 115, 115);
+   border-radius: 3px;
+   margin-left:auto;
+   margin-right: auto;
+ margin-bottom: 80px;
+   padding: 1px;
+   text-align: center;
+
+}
